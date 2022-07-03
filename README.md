@@ -15,11 +15,11 @@ A code example of Wordle Application in universaly accepted design
  ## Q: Why there are some deviations from the initial design? 
  **A:** Although I tried to follow the proposed design as precise as possible, there few minor deviations, which could easily be fixed, if needed and required specifications provided:
  
- -colors are brighter a little than in PDF as there are lots of very similar Wordle games in the Internet, so, to proof that this one was written by myself a small color variations are accepted
+ - colors are brighter a little than in PDF as there are lots of very similar Wordle games in the Internet, so, to proof that this one was written by myself a small color variations are accepted
  
- -the keyboard is a little closer to the gameboard to allow a comfort gameplay on 1366x768 notebook screens - this comfort resoultion for the game is expanded
+ - the keyboard is a little closer to the gameboard to allow a comfort gameplay on 1366x768 notebook screens - this comfort resoultion for the game is expanded
  
- -when instructions window appears the document scrolling is blocked - this is required to avoid the screen flickering under the the modal window, when user accidnetally touch mouse wheel during the intructions reading
+ - when instructions window appears the document scrolling is blocked - this is required to avoid the screen flickering under the the modal window, when user accidnetally touch mouse wheel during the intructions reading
 
 
 ## Q: Why the implementation is based on two Vue.js techniques - setup() implementation and classic divided to sections implementation?
