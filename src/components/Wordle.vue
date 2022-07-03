@@ -339,7 +339,6 @@ export default {
     text-align: center;
     background: #fff;
     border: 2px solid #d3d6db;
-    font-color: black;
     font-weight: 700;
 }
 .wordle-stage-row {
