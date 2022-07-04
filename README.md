@@ -1,5 +1,5 @@
 # codesamples-vue-js-wordle-app
-A code example of Wordle Application in universally accepted design
+A code example of Wordle Application in universally accepted design. 
 Modern npm is required, at least Node.js version 12.x to 14.x
 
 # Installation
